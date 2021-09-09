@@ -7,6 +7,7 @@
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hu-jinwen&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 ## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/timwhitez/count.svg)
+![](https://profile-counter.glitch.me/timwhitez/count.svg)
+![Visitor Count]()
 
 
