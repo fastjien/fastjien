@@ -2,6 +2,7 @@
 
 * 🐤 我是一个菜鸡。 I'm a green hand.
 * 😘 谢谢你给我Star！ Thanks for your star!
+* 爷～来都来了，点个star呗！
 
 ## Github stats
 <img src ="https://github-readme-stats.vercel.app/api?username=hu-jinwen&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
