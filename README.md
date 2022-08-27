@@ -5,7 +5,7 @@
 
 
 ## Github stats
-<img src ="https://github-readme-stats.vercel.app/api?username=hu-jinwen&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+<img src ="https://github-readme-stats.vercel.app/api?username=fastji&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 
 <!--
 ## Most used languages
@@ -13,7 +13,7 @@
 -->
 
 ## Visit Count
-![](https://profile-counter.glitch.me/hu-jinwen/count.svg)
+![](https://profile-counter.glitch.me/fastji/count.svg)
 
 
 
